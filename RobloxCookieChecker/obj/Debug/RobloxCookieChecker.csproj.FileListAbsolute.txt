@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\bin\Debug\RobloxCookieChecker.exe.config
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\bin\Debug\RobloxCookieChecker.exe
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\bin\Debug\RobloxCookieChecker.pdb
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\obj\Debug\RobloxCookieChecker.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\obj\Debug\RobloxCookieChecker.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\obj\Debug\RobloxCookieChecker.exe
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\obj\Debug\RobloxCookieChecker.pdb
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matth\source\repos\RobloxCookieChecker\RobloxCookieChecker\obj\Debug\RobloxCookieChecker.csproj.CopyComplete
